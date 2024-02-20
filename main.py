@@ -12,11 +12,11 @@ class mlops:
 		self.totalStudents = self.totalStudents - 1
 
 	def getClassName(self):
-		return 'Machine Learning Operations (CS-B)'
+		return "Machine Learning Operations (CS-B)"
 
-mlops_class = mlops(5)
-mlops_class.addStudent()
-mlops_class.removeStudents()
-print(mlops_class.getTotalStudents())
-print(mlops_class.getClassName())
+# mlops_class = mlops(5)
+# mlops_class.addStudent()
+# mlops_class.removeStudents()
+# print(mlops_class.getTotalStudents())
+# print(mlops_class.getClassName())
 
