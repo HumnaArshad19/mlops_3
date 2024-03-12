@@ -1,0 +1,14 @@
+jenkin pipeline proj
+repo link 
+jenkins file extract
+own code
+when commit job executes, file executes all steps
+
+2 methods
+new item ...multiple opts
+pipeline---name---select---enable opts ====pipeline script fron se---
+uses same 2nd repo 
+
+
+----------------------------------
+repo link ===jenkin file chk====job execute console ss
